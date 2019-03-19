@@ -1,2 +1,10 @@
 # SEE-Survival-Strategy
-Holistic approach toward explaining how the geography and history of Southeastern Europe has impacted the culture of the people living in this region since prehistory
+This repo is meant as a collaboration environment for editing in LaTeX the papers for a holistic approach toward explaining how the geography and history of Southeastern Europe has impacted the culture of the people living in this region since prehistory
+
+Project name: "Dissimulation as a survival strategy since the Neolithic in the wider Southeast Europe" 
+Consider sending proposals, comments and criticism to Miron Stratan at miron.stratan@gmail.com or via the Research Gate project page:
+https://www.researchgate.net/project/Dissimulation-as-a-survival-strategy-in-South-East-Europe-since-Neolithic
+
+The gist
+The mountains, valleys and plains enclosed by the Carpathians, the Dinaric Alps, the Rhodopes, the Pindos, and the Balkans create a multitude of refuge options for people to thrive in even during climatic stress and under migratory pressure. As a consequence, this region allows for genetic continuity and the persistence of specifc subsistence strategies.While moving through this region, migration waves have to slow down in order to negotiate mountain passes and to deal with the slightly diferent climate and environment on the other side. Mediterranean farmers had to stop for generations to adapt their crops and domesticated animals to temperate climate once they reached the Danube, while steppe riders had to dismount in order to cross the forests toward mountain pastures or to reach the Carpathian basin steppe. In multiple occasions, that slow down meant time enough to mingle with the locals and to exchange cultural elements and genes. Since this region is smacked right at the crossroads between Central Europe and Central and South- western Asia, this story repeated for millennia with each movement of people and ideas, thus consolidating, locally, a specifc form of self-preservation. The initiator of the project contends that the current cultures within the region potentially maintain dissimulation as a part of that protection strategy, along with other prehistoric cultural relics.
+
